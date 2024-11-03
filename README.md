@@ -1,4 +1,4 @@
-# Font Creation with FontLab
+# Font Creation with FontLab for Baravu
 
 This guide provides step-by-step instructions for creating a custom font using FontLab. By following these steps, you'll learn the essentials of font design, including setting up your project, drawing glyphs, adjusting kerning, and exporting your font.
 
